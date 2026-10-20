@@ -1,5 +1,5 @@
 # 💫 About Me:
-Career-changer with a hacker's curiosity since 1984 (Commodore 64, Chaos Computer Club Hamburg) and 30+ years as a Creative Director, bringing<br>systems thinking, stakeholder communication, and performance under deadline pressure into cybersecurity. Applies analytical problem solving to dissect<br>complex security incidents.<br>CompTIA Security+ certified, with hands-on practice in incident response (NIST SP 800-61), network design, and red-team recon exercises through MSITs<br>cybersecurity program.<br>Seeking a SOC Analyst (L1) role to build foundational blue-team experience en route to penetration testing and red teaming.
+Career-changer with a hacker's curiosity since 1984 (Commodore 64, Chaos Computer Club Hamburg) and 30+ years as a Creative Director, bringing systems thinking, stakeholder communication, and performance under deadline pressure into cybersecurity. Applies analytical problem solving to dissect<br>complex security incidents.<br>CompTIA Security+ certified, with hands-on practice in incident response (NIST SP 800-61), network design, and red-team recon exercises through MSITs cybersecurity program.<br>Seeking a SOC Analyst (L1) role to build foundational blue-team experience en route to penetration testing and red teaming.
 
 
 ## 🌐 Socials:
