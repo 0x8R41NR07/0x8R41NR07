@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 412" width="840" height="412" role="img" aria-label="Commodore 64 boot screen: LOAD 0X8R41NR07, RUN. SOC analyst, creative director, hacker since 1984.">
+  <style>
+    text { font-family: "C64 Pro Mono", "Courier New", Courier, monospace; font-size: 20px; font-weight: bold; fill: #7869C4; white-space: pre; }
+    .hi { fill: #A5A5FF; }
+    .scan { fill: url(#scan); pointer-events: none; }
+  </style>
+  <defs>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000" opacity="0.18"/>
+    </pattern>
+    <!-- typing reveals -->
+    <clipPath id="t1"><rect x="60" y="150" width="0" height="30"><animate attributeName="width" from="0" to="320" begin="0.8s" dur="1.3s" fill="freeze"/></rect></clipPath>
+    <clipPath id="t2"><rect x="60" y="270" width="0" height="30"><animate attributeName="width" from="0" to="40" begin="4.6s" dur="0.4s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <!-- border + screen -->
+  <rect width="840" height="412" rx="14" fill="#7869C4"/>
+  <rect x="40" y="36" width="760" height="340" fill="#40318D"/>
+
+  <!-- boot banner (instant) -->
+  <text x="420" y="70" text-anchor="middle">**** COMMODORE 64 BASIC V2 ****</text>
+  <text x="420" y="100" text-anchor="middle">64K RAM SYSTEM  38911 BASIC BYTES FREE</text>
+  <text x="60" y="140">READY.</text>
+
+  <!-- typed LOAD -->
+  <text x="60" y="170" clip-path="url(#t1)">LOAD "0X8R41NR07",8,1</text>
+
+  <text x="60" y="200" opacity="0">SEARCHING FOR 0X8R41NR07<set attributeName="opacity" to="1" begin="2.4s" fill="freeze"/></text>
+  <text x="60" y="230" opacity="0">LOADING<set attributeName="opacity" to="1" begin="3.1s" fill="freeze"/></text>
+  <text x="60" y="260" opacity="0">READY.<set attributeName="opacity" to="1" begin="4.2s" fill="freeze"/></text>
+
+  <!-- typed RUN -->
+  <text x="60" y="290" clip-path="url(#t2)">RUN</text>
+
+  <!-- program output -->
+  <text x="60" y="320" class="hi" opacity="0">&gt; SOC ANALYST (L1) // FUTURE RED TEAMER<set attributeName="opacity" to="1" begin="5.3s" fill="freeze"/></text>
+  <text x="60" y="350" class="hi" opacity="0">&gt; HACKER SINCE 1984. CREATIVE DIRECTOR FOR 30+.<set attributeName="opacity" to="1" begin="5.8s" fill="freeze"/></text>
+
+  <!-- cursor: follows the typing, then parks after the last line -->
+  <rect width="14" height="20" fill="#7869C4" x="60" y="153">
+    <animate attributeName="x" values="60;316" begin="0.8s" dur="1.3s" fill="freeze"/>
+    <set attributeName="y" to="213" begin="2.1s" fill="freeze"/>
+    <set attributeName="x" to="60" begin="2.1s" fill="freeze"/>
+    <set attributeName="y" to="273" begin="4.2s" fill="freeze"/>
+    <animate attributeName="x" values="60;100" begin="4.6s" dur="0.4s" fill="freeze"/>
+    <set attributeName="x" to="642" begin="5.8s" fill="freeze"/>
+    <set attributeName="y" to="333" begin="5.8s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- CRT feel -->
+  <rect width="840" height="412" rx="14" class="scan"/>
+</svg>
