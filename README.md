@@ -28,9 +28,9 @@ Seeking a **SOC Analyst (L1)** role to build foundational blue-team experience e
 ## 🔭 CURRENTLY WORKING ON
 - **Sprint-30:** a 30-day hands-on cybersecurity sprint (SOC, detection engineering, AD attack/defence labs), documented on my blog
 - **[VANISH](https://github.com/0x8R41NR07/vanish):** a Kali privacy-hardening script (Tor transparent proxy, MAC spoofing, DNS lockdown)
-- **detection-lab:** detection rules and lab configs from the sprint (coming soon)
+- **HomeLab:** lab configs from the sprint [here](https://braindump.0x8r41nr07.xyz/my-infosec-homelab). Detection rules repo coming soon
 
-## ✍️ WRITING — [BRAINDUMP](https://braindump.0x8r41nr07.xyz/)
+## ✍️ ALL MY WRITING ON [BRAINDUMP](https://braindump.0x8r41nr07.xyz/), MY SPACE ON HASHNODE
 - [From Hacker to Creative Director and Back](https://braindump.0x8r41nr07.xyz/series/fromhackertocreativedirectorandback): my journey, from the C64 days to agency life and back into security
 - [Write-Ups](https://braindump.0x8r41nr07.xyz/series/writeups): pentest reports, OSINT and CTF walkthroughs
 - [Blog](https://braindump.0x8r41nr07.xyz/series/blog): articles on security, AI and career change
@@ -51,5 +51,3 @@ Seeking a **SOC Analyst (L1)** role to build foundational blue-team experience e
 [![](https://komarev.com/ghpvc/?username=0x8r41nr07&icon=0&color=7869C4&style=for-the-badge&label=VISITORS)](https://github.com/0x8R41NR07)
 
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
