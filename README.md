@@ -26,11 +26,12 @@ Seeking a **SOC Analyst (L1)** role to build foundational blue-team experience e
 </table>
 
 ## 🔭 CURRENTLY WORKING ON
-- **Sprint-30:** a 30-day hands-on cybersecurity sprint (SOC, detection engineering, AD attack/defence labs), documented on my blog
+- **Sprint-30:** a 30-day hands-on cybersecurity sprint (SOC, detection engineering, AD attack/defence labs), documented [day by day on my blog](https://braindump.0x8r41nr07.xyz/series/sprint-30)
 - **[VANISH](https://github.com/0x8R41NR07/vanish):** a Kali privacy-hardening script (Tor transparent proxy, MAC spoofing, DNS lockdown)
-- **HomeLab:** lab configs from the sprint [here](https://braindump.0x8r41nr07.xyz/my-infosec-homelab). Detection rules repo coming soon
+- **HomeLab:** how I built it: [build guide](https://braindump.0x8r41nr07.xyz/my-infosec-homelab). Detection rules and configs: [detection-lab](https://github.com/0x8R41NR07/detection-lab)
 
 ## ✍️ ALL MY WRITING ON [BRAINDUMP](https://braindump.0x8r41nr07.xyz/), MY SPACE ON HASHNODE
+- [Sprint-30](https://braindump.0x8r41nr07.xyz/series/sprint-30): my 30-day SOC / detection / pentest / AD sprint, step by step
 - [From Hacker to Creative Director and Back](https://braindump.0x8r41nr07.xyz/series/fromhackertocreativedirectorandback): my journey, from the C64 days to agency life and back into security
 - [Write-Ups](https://braindump.0x8r41nr07.xyz/series/writeups): pentest reports, OSINT and CTF walkthroughs
 - [Blog](https://braindump.0x8r41nr07.xyz/series/blog): articles on security, AI and career change
