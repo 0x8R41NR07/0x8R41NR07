@@ -26,12 +26,12 @@ Seeking a **SOC Analyst (L1)** role to build foundational blue-team experience e
 </table>
 
 ## 🔭 CURRENTLY WORKING ON
-- **Sprint-30:** a 30-day hands-on cybersecurity sprint (SOC, detection engineering, AD attack/defence labs), documented [day by day on my blog](https://braindump.0x8r41nr07.xyz/series/sprint-30) · [start here](https://braindump.0x8r41nr07.xyz/sprint-30-start-here)
+- **From SOC to Pentest:** three hands-on TryHackMe certifications (SAL1 → AI1 → PT1), attacking my own lab and writing the detections for my own attacks, documented [on my blog](https://braindump.0x8r41nr07.xyz/series/sprint-30) · [start here](https://braindump.0x8r41nr07.xyz/sprint-30-start-here)
 - **[VANISH](https://github.com/0x8R41NR07/vanish):** a Kali privacy-hardening script (Tor transparent proxy, MAC spoofing, DNS lockdown)
 - **HomeLab:** how I built it: [build guide](https://braindump.0x8r41nr07.xyz/my-infosec-homelab). Detection rules and configs: [detection-lab](https://github.com/0x8R41NR07/detection-lab)
 
 ## ✍️ ALL MY WRITING ON [BRAINDUMP](https://braindump.0x8r41nr07.xyz/), MY SPACE ON HASHNODE
-- [Sprint-30](https://braindump.0x8r41nr07.xyz/series/sprint-30): my 30-day SOC / detection / pentest / AD sprint, step by step
+- [From SOC to Pentest](https://braindump.0x8r41nr07.xyz/series/sprint-30): home lab, detections, pentest writeups and my cert path, step by step
 - [From Hacker to Creative Director and Back](https://braindump.0x8r41nr07.xyz/series/fromhackertocreativedirectorandback): my journey, from the C64 days to agency life and back into security
 - [Write-Ups](https://braindump.0x8r41nr07.xyz/series/writeups): pentest reports, OSINT and CTF walkthroughs
 - [Blog](https://braindump.0x8r41nr07.xyz/series/blog): articles on security, AI and career change
